@@ -1,8 +1,10 @@
 streamlit
 pandas
 numpy
-plotly
 lightgbm
 scikit-learn
+plotly
 transformers
 torch
+shap
+matplotlib
