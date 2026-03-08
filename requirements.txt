@@ -4,5 +4,5 @@ numpy
 plotly
 lightgbm
 scikit-learn
-'''transformers
-torch'''
+transformers
+torch
